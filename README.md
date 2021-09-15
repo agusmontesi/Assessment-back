@@ -1,5 +1,9 @@
 # Assessment-back
 
+   Steps to run the back code:
+    
+    npm run dev to start the server! Enjoy de backend
+
 Back-end:
 
 You will be using this service https://rapidapi.com/api-sports/api/covid-193. It’s a free and accessible COVID-19 API that provides data about the progress of the coronavirus around the world. Through a login with Github, Facebook, or Google, they grant you an API key that you can use to make free use of their API with no stated restrictions. They expose three endpoints but we’re going to focus on statistics.
@@ -45,6 +49,4 @@ Requirements:
     The repository should include a README file with all documentation necessary to run the project locally.
     
     
-    Steps to run the back code:
-    
-    npm run dev to start the server! Enjoy de backend
+ 

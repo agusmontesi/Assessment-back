@@ -43,3 +43,8 @@ Requirements:
     The source code must be a GitHub repository publicly available containing backend code only.
 
     The repository should include a README file with all documentation necessary to run the project locally.
+    
+    
+    Steps to run the back code:
+    
+    npm run dev to start the server! Enjoy de backend
